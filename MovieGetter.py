@@ -5,9 +5,7 @@ __author__ = """Shakeeb Shams"""
 
 """
 Get an account from themoviedb.org. Go to this link and create an account:
-
 https://www.themoviedb.org/?_dc=1489731496
-
 assign your API key to the variable below
 """
 
