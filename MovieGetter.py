@@ -53,7 +53,6 @@ given movie (list of strings)
 
 """
 
-
 def get_cast_members(movie_id, job_title, section):
     newlist = []
     r = requests.get("https://api.themoviedb.org/3/movie/{}/credits?api_key=5fcbeae436c656f9e7f98b5c6d06063f".format(movie_id))
